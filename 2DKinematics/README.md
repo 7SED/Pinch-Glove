@@ -1,4 +1,5 @@
-PROJECT: VIRTUAL REALITY/PINCH GLOVE YEAR: 2019 AUTHOR: SH.SEDGHI
+PROJECT: VIRTUAL REALITY/2D Kinematics
+YEAR: 2019 AUTHOR: SH.SEDGHI
 
 This MATLAB code simulates 2D kinematics of a robotic arm with two segments. The user is prompted to enter the angles of the first and second arm, which range from 0 to 270 degrees. The code uses the input angles to calculate the horizontal and vertical location of the end effector using inverse kinematics equations.
 
